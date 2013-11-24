@@ -1,0 +1,131 @@
+/* Main structure and content sections */
+body {
+max-width: 1240px;
+margin: auto;
+font-family: sans-serif;
+background-image:url('images/background.png');
+color: white;
+}
+
+#page {
+margin: 1.5em 0em 1.5em 0em;
+padding: 0em 0.5em 0.5em 0.5em;
+border-radius: 10px;
+height: 100%;
+background-color:rgba(0,0,0,0.2);
+overflow:hidden;
+}
+
+#content {
+padding: 0em 1em 0.5em 1em;
+background-color: #111111;
+border-radius: 10px;
+border-top: 1px solid gray;
+overflow:hidden;
+}
+
+.button {
+padding: 0.5em 1em 0.5em 1em;
+margin-right: 0.5em;
+margin-top: 0.5em;
+display: inline;
+}
+
+#activetab{
+padding-bottom: 0.6em;
+background-color: #111111;
+border-radius: 10px 10px 0px 0px;
+border: 1px solid gray;
+border-bottom: none;
+font-weight: bold;
+}
+
+a {
+text-decoration: none;
+color: gray;
+}
+a:hover{
+text-shadow: 0px 0px 1px gray;
+}
+
+li {
+padding: 0.2em 1em;
+margin: 0;
+list-style-type: none;
+}
+
+img {
+vertical-align: middle;
+}
+
+hr {
+border: 1px solid gray;
+}
+
+/* Header section */
+#header {
+background-image: url('images/spiral.gif');
+background-position: right;
+background-repeat: no-repeat;
+border-top-right-radius: 20px;
+}
+
+#title {
+padding-left: 1.5em;
+background: linear-gradient(to right, rgba(200,200,200,1) 0%,rgba(64,64,64,1) 75%,rgba(0,0,0,0) 100%);
+border-top-left-radius: 5px;
+}
+#title a {
+font-weight: bold;
+color: black;
+}
+
+#navigation {
+margin: -1em 0em 0em 0em;
+padding: 0.75em 2em 0.5em 0em;
+text-align: right;
+}
+
+.heading {
+background: linear-gradient(to right, rgba(255,255,255,0) 0%,rgba(64,64,64,1) 75%,rgba(0,0,0,0) 100%);
+}
+
+/* Page accesories */
+.sidebar {
+float: right;
+max-width: 300px;
+padding-left: 1em;
+padding-bottom: 1em;
+margin-top: 0.5em;
+border-left: 1px solid gray;
+}
+
+.notebox {
+display: inline-block;
+padding: 0.5em 2em 1em 2em;
+margin: 0.5em;
+min-width: 250px;
+background: gray;
+border-radius: 10px;
+}
+.notebox li {
+text-align: left;
+}
+
+.profiles img {
+float: left;
+margin: 0.5em;
+border-radius: 10px;
+}
+
+/* Footer section */
+#footer {
+display: block;
+border-top: 1px;
+border-top-style: dotted;
+margin-top: 1em;
+padding-top: 0.5em;
+font-size: small;
+font-weight: normal;
+text-align: center;
+}

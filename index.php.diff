@@ -1,0 +1,18 @@
+--- /var/www/trancefurs.kregen.net:80.bak/htdocs/index.php	2013-09-16 08:53:14.937069817 -0600
++++ index.php	2013-09-18 09:12:55.344902981 -0600
+@@ -4,7 +4,7 @@
+ 	require_once('config.php');
+ 
+ //Establish which page we are on and if none then we are home
+-	if($_GET["page"] == '')
++	if( !isset($_GET["page"]) || ($_GET["page"] == '') )
+ 	{
+ 		$currentPage=$home;
+ 	}
+@@ -34,4 +34,4 @@
+ 
+ //And finally lets tack the footer on to the bottom
+ 	require_once('footer.php');
+-?>
+\ No newline at end of file
++?>

@@ -1,0 +1,2 @@
+<h2>Testing the News! Does it work?</h2>
+Congrats, you're including the news! That means it works!

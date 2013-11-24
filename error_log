@@ -1,9 +1,0 @@
-[09-Nov-2013 20:07:18] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/mcor4472/public_html/trancefurs-test/header.php on line 13
-[09-Nov-2013 20:08:58] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/mcor4472/public_html/trancefurs-test/header.php on line 13
-[09-Nov-2013 20:19:06] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/mcor4472/public_html/trancefurs-test/header.php on line 13
-[09-Nov-2013 20:20:37] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/mcor4472/public_html/trancefurs-test/header.php on line 13
-[09-Nov-2013 20:20:40] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/mcor4472/public_html/trancefurs-test/header.php on line 13
-[09-Nov-2013 20:25:50] PHP Fatal error:  Can't use function return value in write context in /home1/mcor4472/public_html/trancefurs-test/index.php on line 12
-[11-Nov-2013 11:14:16] PHP Parse error:  syntax error, unexpected T_STRING in /home1/mcor4472/public_html/trancefurs-test/content.php on line 99
-[11-Nov-2013 11:15:50] PHP Parse error:  syntax error, unexpected ';' in /home1/mcor4472/public_html/trancefurs-test/content.php on line 110
-[11-Nov-2013 11:16:00] PHP Parse error:  syntax error, unexpected ';' in /home1/mcor4472/public_html/trancefurs-test/content.php on line 108

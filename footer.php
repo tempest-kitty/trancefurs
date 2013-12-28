@@ -17,7 +17,6 @@
 			
 			<div class="sidebar" style="text-align:left; display:block">
 				<li><a href="https://plus.google.com/u/0/communities/110867674115296785430" target="none" title="Private Group"><img src="/images/google_plus_32.png"> G+ Group</img></a></li>
-				<li><a href="/index.php?page=stats"><img src="/images/stats_32.png"> Stats</img></a></li>
 			</div>
 			
 		</div>

@@ -13,5 +13,5 @@
 				<h1><a href="/index.php?page=<?php echo $home; ?>">TranceFurs</a> : <?php echo ($currentPage); ?></h1>
 			</div>
 		</div>
-		<?php require_once('navigation.php'); ?>
+		<?php require_once($includes.'navigation.php'); ?>
 		

@@ -22,10 +22,10 @@ $navigation = array('NEWS','SERVERS','REGISTER','PROFILES','RULES','HELP');
 $affiliates = array('','');
 
 //Copyright date
-$copyright = 'Copyright &copy; 2013 TranceFurs';
+$copyright = 'Copyright &copy; 2014 TranceFurs';
 
 //Website version
-$webver = '0.3.0';
+$webver = '0.4.0 - still working on it!';
 
 //<<<--- Information ---<<<
 

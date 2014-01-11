@@ -2,7 +2,7 @@
 //These are where the websites text information is stored. This means any pages can be edited without changing the cntent - as if it ran a database.
 
 //About TranceFurs
-$about = "Just lay back and relax, you know why you're hear, slipping nice and deep now...";
+$about = "Welcome to TranceFurs. Just lay back and relax, you know why you're hear, slipping nice and deep now...";
 
 //>>>--- Help --->>>
 

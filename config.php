@@ -9,23 +9,17 @@ $images = 'images/';
 //Default page location
 $includes = 'includes/';
 
-//Choose the main content of the home page
-$home = 'news';
-
 //Navigation Bar contents
-$navigation = array('NEWS','SERVERS','REGISTER','PROFILES','RULES','HELP');
+$navigation = array('HOME','SERVERS','REGISTER','PROFILES','RULES','HELP');
 
 //<<<--- Functionality ---<<<
 //>>>--- Information --->>>
-
-//Affiliates links
-$affiliates = array('','');
 
 //Copyright date
 $copyright = 'Copyright &copy; 2014 TranceFurs';
 
 //Website version
-$webver = '0.4.0 - still working on it!';
+$webver = '0.4.0';
 
 //<<<--- Information ---<<<
 

@@ -42,3 +42,6 @@ v0.3.0
 
 -Changed loads of grahics and styling again. I'm not listing all of it because I was tinkering for hours and can't remember what I did
 
+v0.4.0
+-Updated the structure substantially to make it smoother, ackowledging it doesn't need to be as expandible as the initial set of variables allowed for.
+

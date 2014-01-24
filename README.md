@@ -48,3 +48,7 @@ v0.4.0
 
 -Updated a lot of the code to make plain text pages simpler and to make news and profile features more advanced, levelling out the spectrum across the site
 
+v0.4.1
+
+-Corrected a commit error sending the old index in place of the one with the updated structure
+

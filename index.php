@@ -4,7 +4,7 @@
 	
 //Establish where we are
 	if( !isset($_GET["page"]) || ($_GET["page"] == '') ) {
-		$location = 'home';
+		$currentPage = 'home';
 	} else {
 		$currentPage = strip_tags($_GET["page"]);
 	};

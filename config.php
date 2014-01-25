@@ -19,7 +19,7 @@ $navigation = array('HOME','SERVERS','REGISTER','PROFILES','RULES','HELP');
 $copyright = 'Copyright &copy; 2014 TranceFurs';
 
 //Website version
-$webver = '0.4.0';
+$webver = '0.4.2';
 
 //<<<--- Information ---<<<
 

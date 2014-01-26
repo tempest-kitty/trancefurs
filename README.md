@@ -52,3 +52,7 @@ v0.4.1
 
 -Corrected a commit error sending the old index in place of the one with the updated structure
 
+v0.4.2
+
+-Corrected a heap more errors and things where the old unused variables hadn't been removed from the header and navigation pages
+

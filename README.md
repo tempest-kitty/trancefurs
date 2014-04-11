@@ -56,3 +56,7 @@ v0.4.2
 
 -Corrected a heap more errors and things where the old unused variables hadn't been removed from the header and navigation pages
 
+v1.0.0
+
+-Done, cut out all the unnecasary and finished up what features are there, cancelled the rest of the feature ideas. Website is clean and finihsed.
+

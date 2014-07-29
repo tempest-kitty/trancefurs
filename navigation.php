@@ -5,10 +5,10 @@
 	foreach ($navigation as $page) {
             if ($currentPage == strtolower($page)) {
 				echo ('<div class="button" id="activetab">');
-				echo ('<a href="/index.php?page='.strtolower($page).'">'.$page.'</a>');
+				echo ('<a href="?page='.strtolower($page).'">'.$page.'</a>');
 			} else {
 				echo ('<div class="button">');
-				echo ('<a href="/index.php?page='.strtolower($page).'">'.$page.'</a>');
+				echo ('<a href="?page='.strtolower($page).'">'.$page.'</a>');
 			};	
 		echo ('</div>');
 	};

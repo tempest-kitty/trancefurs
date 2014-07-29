@@ -1,6 +1,7 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
+<meta charset="utf-8"/>
 	<title>TranceFurs IRC - Just relax...</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
@@ -27,7 +28,7 @@
 		?>
 		<div id="footer">
 			<div style="float:left;">
-				<a href="http://kanthorne.net" title="Website produced by Kanibal Thorne" target="_blank"><img src="images/mcor4472_32.png"/> Website by Kanibal Thorne</a> 
+				<a href="http://kanthorne.net" title="Website produced by Kanibal Thorne" target="_blank"><img src="images/kanthorne_32.png" alt="kanthorne.net"/> Website by Kanibal Thorne</a> 
 			</div>
 			<div style="float:right;">
 				<?php

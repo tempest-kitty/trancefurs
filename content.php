@@ -28,13 +28,14 @@
 		?>
 		<div id="footer">
 			<div style="float:left;">
-				<a href="http://kanthorne.net" title="Website produced by Kanibal Thorne" target="_blank"><img src="images/kanthorne_32.png" alt="kanthorne.net"/> Website by Kanibal Thorne</a> 
+				<a href="https://plus.google.com/communities/110867674115296785430" title="Join us on g+" target="_blank"><img src="images/google_plus_32.png" alt="Joins us on g+"/></a> 
+				<a href="http://kanthorne.net" title="Website by kanthorne.net" target="_blank"><img src="images/kanthorne_32.png" alt="Website by kanthorne.net"/></a> 
 			</div>
 			<div style="float:right;">
 				<?php
 				echo 'Copyright &copy; 2013 - '.date("Y").' TranceFurs';
 				echo '<br />';
-				echo 'v0.4.2';
+				echo 'v1.0.1';
 				?>
 			</div>
 		</div>	<!-- ./footer -->

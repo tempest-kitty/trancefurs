@@ -1,7 +1,7 @@
 <!-- Stats for the main #TranceFurs channel -->
 <div class="sidebar">
 	<?php
-		require_once('stats/botstats.global.template.html');
+		require_once('stats/toptalls.trancefurs.htm');
 	?>
 </div>
 

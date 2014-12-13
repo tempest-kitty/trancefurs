@@ -7,5 +7,5 @@ $includes = 'includes/';
 $content = 'content/';
 
 //Navigation Bar contents
-$navigation = array('HOME', 'SERVERS', 'GAMES', 'REGISTER', 'PROFILES', 'RULES', 'HELP');
+$navigation = array('HOME', 'SERVERS', 'GAMES', 'TWITTER', 'REGISTER', 'RADIO', 'PROFILES', 'RULES', 'HELP');
 ?>

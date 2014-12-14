@@ -35,18 +35,6 @@ Track details: <span id="cc_strinfo_trackartist_bxagnvgp" class="cc_streaminfo">
 Raw metadata: <span id="cc_strinfo_rawmeta_bxagnvgp" class="cc_streaminfo"></span><br />
 Album image:<br /><img id="cc_strinfo_trackimageurl_bxagnvgp" class="cc_streaminfo" /><br />
 
-<h2>Make a Request!</h2>
-<div id="cc_req_result_bxagnvgp"></div>
-<form>
-Song artist: <input type="text" id="cc_req_artist_bxagnvgp" name="request[artist]" size="40" maxlength="127" /><br />
-Song title: <input type="text" id="cc_req_title_bxagnvgp" name="request[title]" size="40" maxlength="127" /><br />
-Dedicated to: <input type="text" id="cc_req_dedi_bxagnvgp" name="request[dedication]" size="40" maxlength="127" /><br />
-Your name: <input type="text" id="cc_req_sender_bxagnvgp" name="request[sender]" size="40" maxlength="127" /><br />
-Your E-mail: <input type="text" id="cc_req_email_bxagnvgp" name="request[email]" size="40" maxlength="127" /><br />
-<input type="button" id="cc_req_button_bxagnvgp" class="cc_request_form" value="Submit song request" /><br />
-</form>
-</div>
-
 <script language="javascript" type="text/javascript" src="http://cast6.directhostingcenter.com:2199/system/streaminfo.js"></script>
 <script language="javascript" type="text/javascript" src="http://cast6.directhostingcenter.com:2199/system/request.js"></script>
 	</body>

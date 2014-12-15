@@ -45,8 +45,8 @@ Album image:<br /><img id="cc_strinfo_trackimageurl_bxagnvgp" class="cc_streamin
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-46286721-1', 'auto');
-  ga('require', 'displayfeatures');
   ga('send', 'pageview');
+
 </script>
 </html>
 
